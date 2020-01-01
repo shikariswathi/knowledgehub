@@ -1,0 +1,18 @@
+
+.header{
+    background-color:#ffffff;
+    color: red;
+}
+.table img{
+    width:50px;
+    height:50px;
+  }
+  .btn-primary, .btn-danger{
+    display:none;
+
+  }
+  .btimg:hover .btn-primary, .btimg:hover .btn-danger{
+    display:inline-block;
+    margin:5px;
+    
+  }
